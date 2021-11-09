@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning new coding languages 
 - 🌱 I’m currently learning ...BE in CSE
 - 💞️ I’m looking to collaborate on ...creating new programs 
-- 📫 How to reach me ...via this id
+- 📫 How to reach me ...through this id
 
 <!---
 Keerti143/Keerti143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
