@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Keerti143
-- 👀 I’m interested in ...learning new coding languages 
-- 🌱 I’m currently learning ...BE in CSE
-- 💞️ I’m looking to collaborate on ...creating new programs 
+- 👋 Hi, I’m Keerthana L
+- 👀 I’m interested in ...working on real world applications
+- 🌱 I’m currently learning ...Computer science and engineering in City engineering college
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to  reach me ...through this id
 
 <!---
